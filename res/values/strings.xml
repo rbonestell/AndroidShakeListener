@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AndroidShakeListener</string>
+    <string name="shake_me">Please don\'t shake me!</string>
+    <string name="title_activity_main">AndroidShakeListener Demo</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<array name="responses">
+        <item>"Hey, stop that!"</item>
+        <item>"Why are you doing this to me?"</item>
+        <item>"What did I do to you?"</item>
+        <item>"Don't drop me!"</item>
+        <item>"I'm getting dizzy!"</item>
+    </array>
+</resources>

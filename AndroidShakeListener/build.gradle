@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.rbonestell.androidshakelistener"
-        minSdkVersion 7
+        minSdkVersion 14
         targetSdkVersion 16
     }
 

@@ -1,4 +1,4 @@
-AndroidShakeListener [![Build Status](https://travis-ci.org/rbonestell/AndroidShakeListener.svg)](https://travis-ci.org/rbonestell/AndroidShakeListener) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/rbonestell/AndroidShakeListener/master/LICENSE)
+AndroidShakeListener [![Build Status](https://travis-ci.org/rbonestell/AndroidShakeListener.svg?branch=development)](https://travis-ci.org/rbonestell/AndroidShakeListener) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/rbonestell/AndroidShakeListener/master/LICENSE)
 ====================
 
 Detect shaking of the device from within your Android application.
